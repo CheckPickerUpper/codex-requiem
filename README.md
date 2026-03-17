@@ -1,5 +1,9 @@
 # Codex Requiem
 
+<p align="center">
+  <img src="logo.jpg" alt="Codex Requiem" width="600" />
+</p>
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![GitHub Stars](https://img.shields.io/github/stars/CheckPickerUpper/codex-requiem)
 ![Last Commit](https://img.shields.io/github/last-commit/CheckPickerUpper/codex-requiem)
