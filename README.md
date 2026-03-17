@@ -1,5 +1,7 @@
 # Codex Requiem
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 An evolved fork of [skill-codex](https://github.com/skills-directory/skill-codex); Codex CLI integration for Claude Code, pierced by the Requiem arrow.
 
 ## What is this?
