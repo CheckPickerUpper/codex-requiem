@@ -1,7 +1,7 @@
 # Codex Requiem
 
 <p align="center">
-  <img src="logo.jpg" alt="Codex Requiem" width="600" />
+  <img src="logo.png" alt="Codex Requiem" width="400" />
 </p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
