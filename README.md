@@ -49,11 +49,16 @@ Claude will:
 1. Ask which model to use (`gpt-5.3-codex-spark`, `gpt-5.3-codex`, or `gpt-5.2`)
 2. Ask reasoning effort level (`low`, `medium`, `high`)
 3. Pick a sandbox mode; defaults to `read-only` for analysis
-4. Run `codex exec` and summarize the results
+4. Run Codex via the cross-platform wrapper and summarize the results
 
-Thinking tokens are suppressed by default (`2>/dev/null`) to keep context clean. Ask Claude to show them if you need to debug.
+Thinking tokens are suppressed by default. Ask Claude to show them if you need to debug.
 
 See [`plugins/skill-codex/skills/codex/SKILL.md`](plugins/skill-codex/skills/codex/SKILL.md) for full operational docs.
+
+## What's different from upstream?
+
+- **Cross-platform wrapper** (`codex-run.js`) — replaces bash-only `2>/dev/null` and `echo | pipe` patterns; works on Windows, macOS, and Linux
+- More improvements planned — see [ROADMAP.md](ROADMAP.md)
 
 ## Upstream
 
