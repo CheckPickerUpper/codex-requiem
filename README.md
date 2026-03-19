@@ -58,7 +58,7 @@ See [`plugins/skill-codex/skills/codex/SKILL.md`](plugins/skill-codex/skills/cod
 ## What's different from upstream?
 
 - **Cross-platform wrapper** (`codex-run.js`) — replaces bash-only `2>/dev/null` and `echo | pipe` patterns; works on Windows, macOS, and Linux
-- More improvements planned — see [ROADMAP.md](ROADMAP.md)
+- More improvements planned
 
 ## Upstream
 
